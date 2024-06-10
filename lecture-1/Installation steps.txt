@@ -1,0 +1,8 @@
+step 1 - go to unity website
+step 2 - Download Installer "Unity for windows"
+step 3 - Run the dowloaded installer with default configurations 
+step 4 - Install unity editor and other packages
+step 5 - Select the modules you want to use 
+step 6 - Click on new project 
+
+ 
